@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://galelinequra.pages.dev/sitemap.xml
